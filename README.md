@@ -13,15 +13,14 @@
 
 - 🔭 I’m currently working on **Fest Handler**
 
-- 🌱 I’m currently learning **Blockchain, Data Structures and Cyber Security**
+- 🌱 I’m currently learning **Data Structures**
 
-- 👯 I’m looking to collaborate on **Android and Web Development Projects**
+- 👯 I’m looking to collaborate on **Android Development Projecs**
 
-- 💬 Ask me about **Android, Python,C/C++ ,CP**
+- 💬 Ask me about **Android, Python,C/C++**
 
 - 📫 How to reach me **dcrohanmanro@gmail.com**
 
-- ⚡ Fun fact **I turn into Chandler with poor sense of humor when I am uncomfortable.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
