@@ -13,18 +13,18 @@
 
 - 🔭 I’m currently working on **Fest Handler**
 
-- 🌱 I’m currently learning **Data Structures**
+- 🌱 I’m currently learning **Machine Learning and System Secuirty**
 
-- 👯 I’m looking to collaborate on **Android Development Projecs**
+- 👯 I’m looking to collaborate on **ML Projecs**
 
-- 💬 Ask me about **Android, Python,C/C++**
+- 💬 Ask me about **ML,Network Securities,Python,C,C++**
 
 - 📫 How to reach me **dcrohanmanro@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rohan manro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan manro" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohan-manro-56a669223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan manro" height="30" width="40" /></a>
 <a href="https://instagram.com/e_ln_rohan.manro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e_ln_rohan.manro" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rookycipher" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rookycipher" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rookycipher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rookycipher" height="30" width="40" /></a>
