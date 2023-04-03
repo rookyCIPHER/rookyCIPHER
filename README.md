@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rookycipher" alt="rookycipher" /></a> </p>
 
-- 🔭 I’m currently working on **Fest Handler**
+- 🔭 I’m currently working on **my skills in DSA**
 
 - 🌱 I’m currently learning **Machine Learning and System Secuirty**
 
