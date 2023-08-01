@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **ML Projecs**
 
-- 💬 Ask me about **ML,Network Securities,Python,C,C++**
+- 💬 Ask me about **ML,Python,C,C++**
 
 - 📫 How to reach me **dcrohanmanro@gmail.com**
 
