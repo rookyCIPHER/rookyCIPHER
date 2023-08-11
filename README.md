@@ -1,12 +1,13 @@
 
 
-[![MasterHead](https://www.whiteboardblog.co.uk/wp-content/uploads/2014/06/madewithcodeheader.jpg)]
+![MasterHead](https://www.whiteboardblog.co.uk/wp-content/uploads/2014/06/madewithcodeheader.jpg)
 
 
 
 <h1 align="center">Hi 👋, I'm Rohan Manro</h1>
 <h3 align="center">A passionate developer from India, who is trying to figure out the universe one book at a time.</h3>
-# 💫 About Me:
+
+💫 About Me:
 🔭 I’m currently working on Enumerating Spanning Trees Research.<br>👯 I’m looking to collaborate on ML projects.<br>🌱 I’m currently learning ML and AI.<br>💬 Ask me about ML and Graph Theory
 
 
