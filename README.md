@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Manro</h1>
 <h3 align="center">A passionate developer from India, who is trying to figure out the universe one book at a time.</h3>
 
-💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on Enumerating Spanning Trees Research.<br>👯 I’m looking to collaborate on ML projects.<br>🌱 I’m currently learning ML and AI.<br>💬 Ask me about ML and Graph Theory
 
 
@@ -21,8 +21,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rookyCIPHER&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rookyCIPHER&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rookyCIPHER&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
