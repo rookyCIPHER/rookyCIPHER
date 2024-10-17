@@ -7,10 +7,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Manro</h1>
 <h3 align="center">A passionate developer from India, who is trying to figure out the universe one book at a time.</h3>
 
-# 💫 About Me:
-🔭 I’m currently working on Enumerating Spanning Trees Research.<br>👯 I’m looking to collaborate on ML projects.<br>🌱 I’m currently learning ML and AI.<br>💬 Ask me about ML and Graph Theory
-
-
 ## 🌐 Socials:
 
 <a href="https://linkedin.com/in/rohan-manro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-manro" height="30" width="40" /></a>
